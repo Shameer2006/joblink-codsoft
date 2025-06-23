@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/joblink-codsoft/static/js/main.fb13743b.js",
+    "main.js": "/joblink-codsoft/static/js/main.dddcc3e6.js",
     "index.html": "/joblink-codsoft/index.html",
-    "main.fb13743b.js.map": "/joblink-codsoft/static/js/main.fb13743b.js.map"
+    "main.dddcc3e6.js.map": "/joblink-codsoft/static/js/main.dddcc3e6.js.map"
   },
   "entrypoints": [
-    "static/js/main.fb13743b.js"
+    "static/js/main.dddcc3e6.js"
   ]
 }
